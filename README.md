@@ -4,3 +4,6 @@ This repository is used to learn the basics of Git and GitHub
 # My motivations for learn Python, Github and R is for become a big teacher-researcher in coming soon. Before a Licence APA I have do a DEUST AGAPS soccer, become a teacher-researcher would represented a beautiful finish of my school parcours. Since my ten years I have pratice a soccer in good level. At my threeteen i integrate a school-sport and etud. Since I little boy I am formate for the research for excellence. So every obstacle is a level at passed with succes. Like my english but like N.Mandela at say "It always seems impossible until it's done".
 ## My local image
 ![My image](image/Github.png)
+
+# The principal concept learned is the utilisate a Github Destkop, I don't say a VS Code, because I am in created of mobile application since june. The second concept is the add a image since my computer in Vs code and GitHub.
+# The command used is the commit, push. In Vs code is the synthax Markdown because for my application I have used of help of Claude. 
